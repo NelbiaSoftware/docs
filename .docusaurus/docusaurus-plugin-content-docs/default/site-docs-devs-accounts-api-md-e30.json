@@ -1,0 +1,23 @@
+{
+  "id": "devs/AccountsApi",
+  "title": "AccountsApi",
+  "description": "All URIs are relative to http://localhost/api/v1",
+  "source": "@site/docs/devs/AccountsApi.md",
+  "sourceDirName": "devs",
+  "slug": "/devs/AccountsApi",
+  "permalink": "/web/docs/devs/AccountsApi",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devs",
+  "previous": {
+    "title": "Приветствие",
+    "permalink": "/web/docs/devs/intro"
+  },
+  "next": {
+    "title": "NotificationsApi",
+    "permalink": "/web/docs/devs/NotificationsApi"
+  }
+}

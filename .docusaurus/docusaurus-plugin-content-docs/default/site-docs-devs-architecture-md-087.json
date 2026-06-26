@@ -1,0 +1,14 @@
+{
+  "id": "devs/architecture",
+  "title": "Архитектура",
+  "description": "диаграмма системы",
+  "source": "@site/docs/devs/architecture.md",
+  "sourceDirName": "devs",
+  "slug": "/devs/architecture",
+  "permalink": "/docs/devs/architecture",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

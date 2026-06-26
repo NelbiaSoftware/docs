@@ -1,0 +1,17 @@
+{
+  "id": "users/intro",
+  "title": "Приветствие",
+  "description": "Раздел отвечает на частые вопросы пользователей и объясняет механику работы Provve.",
+  "source": "@site/docs/users/intro.md",
+  "sourceDirName": "users",
+  "slug": "/users/intro",
+  "permalink": "/docs/users/intro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  }
+}

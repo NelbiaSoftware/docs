@@ -1,0 +1,23 @@
+{
+  "id": "devs/SessionsApi",
+  "title": "SessionsApi",
+  "description": "All URIs are relative to http://localhost/api/v1",
+  "source": "@site/docs/devs/SessionsApi.md",
+  "sourceDirName": "devs",
+  "slug": "/devs/SessionsApi",
+  "permalink": "/web/docs/devs/SessionsApi",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devs",
+  "previous": {
+    "title": "NotificationsApi",
+    "permalink": "/web/docs/devs/NotificationsApi"
+  },
+  "next": {
+    "title": "SkillsApi",
+    "permalink": "/web/docs/devs/SkillsApi"
+  }
+}

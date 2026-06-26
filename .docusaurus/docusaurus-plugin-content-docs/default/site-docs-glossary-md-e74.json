@@ -1,0 +1,14 @@
+{
+  "id": "glossary",
+  "title": "Глоссарий",
+  "description": "На это странице даны определения понятий, используемых в Provve.",
+  "source": "@site/docs/glossary.md",
+  "sourceDirName": ".",
+  "slug": "/glossary",
+  "permalink": "/docs/glossary",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}
