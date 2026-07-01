@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Documentation | ObviStudio',
+  title: 'Documentation | NelbiaSoftware',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -11,13 +11,13 @@ const config: Config = {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
   },
 
-  url: 'https://obvistudio.github.io',
-  baseUrl: '/',
+  url: 'https://nelbiasoftware.github.io',
+  baseUrl: '/docs/',
 
   onBrokenLinks: 'throw',
   i18n: {
-    defaultLocale: "ru",
-    locales: ["ru"],
+    defaultLocale: "en",
+    locales: ["en"],
   },
 
   presets: [
@@ -39,9 +39,9 @@ const config: Config = {
       items: [
         {
           type: "docSidebar",
-          sidebarId: "obviquests",
+          sidebarId: "nelbiaquests",
           position: "right",
-          label: "ObviQuests",
+          label: "NelbiaQuests",
         },
       ],
       logo: {
@@ -53,7 +53,7 @@ const config: Config = {
     },
     footer: {
       style: "dark",
-      copyright: `© ObviStudio, ${new Date().getFullYear()}`,
+      copyright: `© NelbiaSoftware, ${new Date().getFullYear()}`,
       links: [
         {
           items: [
